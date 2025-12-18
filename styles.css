@@ -1,0 +1,55 @@
+
+h1 {
+  color: darkblue;
+  font-size: 36px;
+}
+
+h2 {
+  color: steelblue;
+  font-size: 28px;
+}
+
+h3 {
+  color: red;
+  font-size: 28px;
+}
+
+h4 {
+  color: yellow;
+  font-size: 28px;
+}
+
+h5 {
+  color: green;
+  font-size: 28px;
+}
+
+
+h6 {
+  color: orange;
+  font-size: 28px;
+}
+
+
+
+
+/* 2. Paragraphs */
+p {
+  color: #333;
+  font-size: 16px;
+  line-height: 1.6;
+}
+
+
+
+/* 3. Links */
+a {
+  color: green;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+a:hover {
+  color: darkgreen;
+  text-decoration: underline;
+}
